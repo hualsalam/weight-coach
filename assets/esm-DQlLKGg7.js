@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/web-CjhZXD0B.js","assets/index-FObJdh2T.js","assets/index-ClvUYINi.css"])))=>i.map(i=>d[i]);
+import{n as e,r as t}from"./index-FObJdh2T.js";var n=e(`Health`,{web:()=>t(()=>import(`./web-CjhZXD0B.js`).then(e=>new e.HealthWeb),__vite__mapDeps([0,1,2]))});export{n as Health};
