@@ -1,0 +1,26 @@
+<!-- Weight Coach. Two bare feet on the scale, seen from above.
+     All white on a transparent ground, so it sits on the brand green, on ink, or on a photo.
+     Each foot is a wide ball, a narrower heel and a row of toes that gets smaller outwards —
+     without the big toe on the inside they read as two eggs rather than as feet. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect x="56" y="56" width="400" height="400" rx="80" stroke="#ffffff" stroke-width="34"/>
+  <g fill="#ffffff">
+    <g transform="rotate(-8 188 252)">
+      <ellipse cx="188" cy="246" rx="56" ry="60"/>
+      <ellipse cx="188" cy="316" rx="42" ry="50"/>
+      <circle cx="245" cy="193" r="19"/>
+      <circle cx="213" cy="169" r="16.5"/>
+      <circle cx="175" cy="165" r="14.5"/>
+      <circle cx="142" cy="181" r="12"/>
+    </g>
+    <g transform="rotate(8 324 252)">
+      <ellipse cx="324" cy="246" rx="56" ry="60"/>
+      <ellipse cx="324" cy="316" rx="42" ry="50"/>
+      <circle cx="267" cy="193" r="19"/>
+      <circle cx="299" cy="169" r="16.5"/>
+      <circle cx="337" cy="165" r="14.5"/>
+      <circle cx="370" cy="181" r="12"/>
+    </g>
+    <rect x="160" y="398" width="192" height="24" rx="12"/>
+  </g>
+</svg>
